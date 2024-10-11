@@ -1,5 +1,5 @@
 ---
-title: "Generated Audio Samples"
+title: "Speaker Audio Samples"
 ---
 
 # Kashmiri
